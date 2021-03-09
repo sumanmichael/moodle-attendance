@@ -8,11 +8,10 @@ BASE_LINK = "http://lms.rgukt.ac.in/mod/attendance/view.php?id="
 HTML_PARSER = "html.parser"
 MAX_ATTEMPTS = 3
 subject_links = {
-    "MC":   BASE_LINK + "741",
-    "BC":   BASE_LINK + "987",
-    "IS":   BASE_LINK + "939",
-    "QC":   BASE_LINK + "6352",
-    "MEFA":   BASE_LINK + "2307",
+    "SG":   BASE_LINK + "10101",
+    "UEE":   BASE_LINK + "10175",
+    "PSOC":   BASE_LINK + "10120",
+    "FOM":   BASE_LINK + "10806",
 }
 
 
